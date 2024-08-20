@@ -1,9 +1,3 @@
-**Book Recommendation System**
-
-A lightweight, popularity-based book recommendation system built with Python. It uses pandas, NumPy, Seaborn, and Surprise for data analysis, and features a Gradio-powered interface for easy user interaction. Designed for environments with limited RAM, this system efficiently recommends books based on their popularity.
-
-### README File (GitHub)
-
 # Book Recommendation System
 
 ## Overview
